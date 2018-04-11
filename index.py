@@ -1,3 +1,3 @@
 #!/bin/python
-# coding : UTF-8
+#coding:UTF-8
 print("안녕")
